@@ -11,5 +11,12 @@ Default file path in line 13:
 local TXT_File_Path   = "/mnt/onboard/.adds/koreader/plugins/philosopher.koplugin/data.txt"
 ```
 
-# License
+## Supported formats
+
+|   formats    |    date   |
+|:------------:|:---------:|
+|&#x2611; txt  | 2018/1/29 |
+|&#x2610; json |  pending  |
+
+## License
 GPL v3
